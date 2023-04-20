@@ -5,8 +5,6 @@ Final Bootcamp Project HGhotels (React.js, Node.js, Mongoose, Express.js, CSS): 
 
 Make-up website (React.js, Node.js, Mongoose, Express.js, CSS): https://deluxe-chimera-17463c.netlify.app/
 
-NFT slideshow.react (React.js, CSS): https://teal-chebakia-86654f.netlify.app/SignUp
-
 NFT slideshow.js (JS6, HTML, CSS): https://loquacious-tulumba-32f901.netlify.app
 
 FakeBook from Figma (HTML, CSS): https://voluble-pasca-9ac756.netlify.app/
